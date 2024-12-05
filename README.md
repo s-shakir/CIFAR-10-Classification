@@ -1,0 +1,1 @@
+Lightweight CIFAR-10 classification model. The model is built and trained from scratch, focusing on low parameters, low FLOPs, and high accuracy. It leverages PyTorch and Optuna for hyperparameter optimization.
